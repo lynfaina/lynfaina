@@ -26,23 +26,25 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Kali Linux" width="26px" src="./img/kali.png" style="padding-right:10px;" />]
-[<img align="left" alt="VMware" width="26px" src="./img/vmware.png" style="padding-right:10px;" />]
-[<img align="left" alt="Nmap" width="26px" src="./img/nmap.png" style="padding-right:10px;" />]
-[<img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.png" style="padding-right:10px;" />]
-[<img align="left" alt="Cisco Packet Tracer" width="26px" src="./img/cisco.png" style="padding-right:10px;" />]
-[<img align="left" alt="AWS" width="26px" src="./img/aws.png" style="padding-right:10px;" />]
-[<img align="left" alt="Microsoft Azure" width="26px" src="./img/azure.png" style="padding-right:10px;" />]
-[<img align="left" alt="Metasploit" width="26px" src="./img/metasploit.png" style="padding-right:10px;" />]
-[<img align="left" alt="Burp Suite" width="26px" src="./img/burpsuite.png" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="./img/html5.png" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="./img/css3.png" style="padding-right:10px;" />]
-&nbsp;
-[<img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" style="padding-right:10px;" />]
-[<img align="left" alt="Oracle SQL" width="26px" src="./img/sql.png" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal.png" style="padding-right:10px;" />]
+<p align="left">
+  <img src="./img/kali.png" alt="Kali Linux" width="30" style="margin-right: 10px;" />
+  <img src="./img/vmware.png" alt="VMware" width="30" style="margin-right: 10px;" />
+  <img src="./img/nmap.png" alt="Nmap" width="30" style="margin-right: 10px;" />
+  <img src="./img/ubuntu.png" alt="Ubuntu" width="30" style="margin-right: 10px;" />
+  <img src="./img/cisco.png" alt="Cisco Packet Tracer" width="30" style="margin-right: 10px;" />
+  <img src="./img/aws.png" alt="AWS" width="30" style="margin-right: 10px;" />
+  <img src="./img/azure.png" alt="Microsoft Azure" width="30" style="margin-right: 10px;" />
+  <img src="./img/metasploit.png" alt="Metasploit" width="30" style="margin-right: 10px;" />
+  <img src="./img/burpsuite.png" alt="Burp Suite" width="30" style="margin-right: 10px;" />
+  
+  <br /> <br /> <img src="./img/vscode.png" alt="VS Code" width="30" style="margin-right: 10px;" />
+  <img src="./img/html5.png" alt="HTML5" width="30" style="margin-right: 10px;" />
+  <img src="./img/css3.png" alt="CSS3" width="30" style="margin-right: 10px;" />
+  <img src="./img/javascript.png" alt="JavaScript" width="30" style="margin-right: 10px;" />
+  <img src="./img/nodejs.png" alt="Node.js" width="30" style="margin-right: 10px;" />
+  <img src="./img/mongodb.png" alt="MongoDB" width="30" style="margin-right: 10px;" />
+  <img src="./img/sql.png" alt="Oracle SQL" width="30" style="margin-right: 10px;" />
+  <img src="./img/git.png" alt="Git" width="30" style="margin-right: 10px;" />
+  <img src="./img/github.png" alt="GitHub" width="30" style="margin-right: 10px;" />
+  <img src="./img/terminal.png" alt="Terminal" width="30" style="margin-right: 10px;" />
+</p>
