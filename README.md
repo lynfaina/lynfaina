@@ -27,7 +27,7 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="./img/kali.png" alt="Kali Linux" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/kali.png" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/vmware.png" alt="VMware" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/nmap.png" alt="Nmap" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/ubuntu.png" alt="Ubuntu" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
