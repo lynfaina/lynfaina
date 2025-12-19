@@ -27,29 +27,29 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="./img/kali.png" alt="Kali Linux" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./img/vmware.png" alt="VMware" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./img/nmap.png" alt="Nmap" width="30" style="margin-right: 10px;" />
-  <img src="./img/ubuntu.png" alt="Ubuntu" width="30" style="margin-right: 10px;" />
-  <img src="./img/cisco.png" alt="Cisco Packet Tracer" width="30" style="margin-right: 10px;" />
-  <img src="./img/aws.png" alt="AWS" width="30" style="margin-right: 10px;" />
-  <img src="./img/azure.png" alt="Microsoft Azure" width="30" style="margin-right: 10px;" />
-  <img src="./img/metasploit.png" alt="Metasploit" width="30" style="margin-right: 10px;" />
-  <img src="./img/burpsuite.png" alt="Burp Suite" width="30" style="margin-right: 10px;" />
-  <img src="./img/vscode.png" alt="VS Code" width="30" style="margin-right: 10px;" />
-  <img src="./img/html5.png" alt="HTML5" width="30" style="margin-right: 10px;" />
-  <img src="./img/css3.png" alt="CSS3" width="30" style="margin-right: 10px;" />
+  <img src="./img/kali.png" alt="Kali Linux" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/vmware.png" alt="VMware" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/nmap.png" alt="Nmap" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/ubuntu.png" alt="Ubuntu" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/cisco.png" alt="Cisco Packet Tracer" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/aws.png" alt="AWS" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/azure.png" alt="Microsoft Azure" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/metasploit.png" alt="Metasploit" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/burpsuite.png" alt="Burp Suite" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/vscode.png" alt="VS Code" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/html5.png" alt="HTML5" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/css3.png" alt="CSS3" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <br>
-  <img src="./img/javascript.png" alt="JavaScript" width="30" style="margin-right: 10px;" />
-  <img src="./img/nodejs.png" alt="Node.js" width="30" style="margin-right: 10px;" />
-  <img src="./img/mongodb.png" alt="MongoDB" width="30" style="margin-right: 10px;" />
-  <img src="./img/sql.png" alt="Oracle SQL" width="30" style="margin-right: 10px;" />
-  <img src="./img/git.png" alt="Git" width="30" style="margin-right: 10px;" />
-  <img src="./img/github.png" alt="GitHub" width="30" style="margin-right: 10px;" />
-  <img src="./img/c++.png" alt="C++" width="30" style="margin-right: 10px;" />
-  <img src="./img/python.png" alt="Python" width="30" style="margin-right: 10px;" />
-  <img src="./img/visualbasic.png" alt="Visual Basic" width="30" style="margin-right: 10px;" />
-  <img src="./img/c.png" alt="C" width="30" style="margin-right: 10px;" />
-  <img src="./img/java.png" alt="Java" width="30" style="margin-right: 10px;" />
+  <img src="./img/javascript.png" alt="JavaScript" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/nodejs.png" alt="Node.js" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/mongodb.png" alt="MongoDB" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/sql.png" alt="Oracle SQL" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/git.png" alt="Git" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/github.png" alt="GitHub" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/c++.png" alt="C++" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/python.png" alt="Python" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/visualbasic.png" alt="Visual Basic" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/c.png" alt="C" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/java.png" alt="Java" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/terminal.png" alt="Terminal" width="30" style="margin-right: 10px;" />
 </p>
