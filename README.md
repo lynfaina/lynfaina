@@ -2,9 +2,9 @@
 
 ## I'm a Cybersecurity and Threat Management student!
 
-- 👩‍💻 I’m currently looking for Summer 2026 Work Term opportunities
-- 🔭 I’m looking forward on building of web and cloud security projects
-- 🌱 The following are the current courses I'm learning from my program:
+- 👩‍💻 I’m currently looking for **Summer 2026 Work Term opportunities**
+- 🔭 I’m looking forward to building web and cloud security projects
+- 🌱 I'm currently taking the following courses:
     - Project Management
     - Authentication & Access Control
     - IT Security Capstone Project
@@ -12,9 +12,9 @@
     - IT Security Forensics
     - Threat Investigation
 - 👯 I’m looking to collaborate on building security projects
-- 🥅 2026 Goals: More learnings, projects, certificates, and internship!
+- 🥅 2026 Goals: Expanding my knowledge, projects, certificates, and an internship!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I sing, dance, and do arts. I love listening to K-POP songs!
+- ⚡ Fun fact: I sing, dance, and create art. I also love listening to K-POP!
 
 ### Connect with me:
 
