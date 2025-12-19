@@ -46,5 +46,10 @@
   <img src="./img/sql.png" alt="Oracle SQL" width="30" style="margin-right: 10px;" />
   <img src="./img/git.png" alt="Git" width="30" style="margin-right: 10px;" />
   <img src="./img/github.png" alt="GitHub" width="30" style="margin-right: 10px;" />
+  <img src="./img/c++.png" alt="C++" width="30" style="margin-right: 10px;" />
+  <img src="./img/python.png" alt="Python" width="30" style="margin-right: 10px;" />
+  <img src="./img/visualbasic.png" alt="Visual Basic" width="30" style="margin-right: 10px;" />
+  <img src="./img/c.png" alt="C" width="30" style="margin-right: 10px;" />
+  <img src="./img/java.png" alt="Java" width="30" style="margin-right: 10px;" />
   <img src="./img/terminal.png" alt="Terminal" width="30" style="margin-right: 10px;" />
 </p>
