@@ -19,10 +19,9 @@
 ### Connect with me:
 
 [<img align="left" alt="globe" width="26px" src="./img/globe.png" style="padding-right:10px;" />](https://lynfaina.github.io/portfoliov2/)
-[![website](![alt text](./img/globe.png))](https://lynfaina.github.io/portfoliov2/)
-[![website](![alt text](./img/linkedin.png))](https://www.linkedin.com/in/lynfaina/)
-[![website](![alt text](./img/instagram.png))](https://www.instagram.com/coleberii/)
-[![website](![alt text](./img/youtube.png))](https://www.youtube.com/@vocalyn)
+[<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/lynfaina/)
+[<img align="left" alt="instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;" />](https://www.instagram.com/coleberii/)
+[<img align="left" alt="youtube" width="26px" src="./img/youtube.png" style="padding-right:10px;" />](https://www.youtube.com/@vocalyn)
 
 ### Languages and Tools:
 
