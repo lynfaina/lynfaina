@@ -36,8 +36,8 @@
   <img src="./img/azure.png" alt="Microsoft Azure" width="30" style="margin-right: 10px;" />
   <img src="./img/metasploit.png" alt="Metasploit" width="30" style="margin-right: 10px;" />
   <img src="./img/burpsuite.png" alt="Burp Suite" width="30" style="margin-right: 10px;" />
-  
-  <br /> <br /> <img src="./img/vscode.png" alt="VS Code" width="30" style="margin-right: 10px;" />
+  <br /> 
+  <img src="./img/vscode.png" alt="VS Code" width="30" style="margin-right: 10px;" />
   <img src="./img/html5.png" alt="HTML5" width="30" style="margin-right: 10px;" />
   <img src="./img/css3.png" alt="CSS3" width="30" style="margin-right: 10px;" />
   <img src="./img/javascript.png" alt="JavaScript" width="30" style="margin-right: 10px;" />
