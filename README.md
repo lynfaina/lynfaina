@@ -38,6 +38,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="./img/html5.png" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="./img/css3.png" style="padding-right:10px;" />]
+&nbsp;
 [<img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" style="padding-right:10px;" />]
