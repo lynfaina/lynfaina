@@ -18,6 +18,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="globe" width="26px" src="./img/globe.png" style="padding-right:10px;" />](https://lynfaina.github.io/portfoliov2/)
 [![website](![alt text](./img/globe.png))](https://lynfaina.github.io/portfoliov2/)
 [![website](![alt text](./img/linkedin.png))](https://www.linkedin.com/in/lynfaina/)
 [![website](![alt text](./img/instagram.png))](https://www.instagram.com/coleberii/)
