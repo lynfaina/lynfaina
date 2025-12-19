@@ -22,6 +22,7 @@
 [<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/lynfaina/)
 [<img align="left" alt="instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;" />](https://www.instagram.com/coleberii/)
 [<img align="left" alt="youtube" width="26px" src="./img/youtube.png" style="padding-right:10px;" />](https://www.youtube.com/@vocalyn)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
