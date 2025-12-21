@@ -20,7 +20,9 @@
 
 <p align="left">
   <a href="https://lynfaina.github.io/portfoliov2/">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png"><img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png">
+  <img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;">
   </picture>
   </a>
   
