@@ -2,7 +2,7 @@
 
 ## I'm a Cybersecurity and Threat Management student!
 
-- 👩‍💻 I’m currently looking for **Summer 2026 Work Term opportunities**
+- 👩‍💻 I’m currently seeking for **Summer 2026 Work Term opportunities**
 - 🔭 I’m looking forward to building web and cloud security projects
 - 🌱 I'm currently taking the following courses:
     - Project Management
