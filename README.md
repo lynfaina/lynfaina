@@ -18,17 +18,37 @@
 
 ### Connect with me:
 
-[![Website](./img/globe-dark.png#gh-light-mode-only)](https://lynfaina.github.io/portfoliov2/)
-[![Website](./img/globe-light.png#gh-dark-mode-only)](https://lynfaina.github.io/portfoliov2/)
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-dark.png#gh-light-mode-only)](https://www.linkedin.com/in/lynfaina/)
-[![LinkedIn](./img/linkedin-light.png#gh-dark-mode-only)](https://www.linkedin.com/in/lynfaina/)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-dark.png#gh-light-mode-only)](https://www.instagram.com/coleberii/)
-[![Instagram](./img/instagram-light.png#gh-dark-mode-only)](https://www.instagram.com/coleberii/)
-&nbsp;&nbsp;
-[![YouTube](./img/youtube-dark.png#gh-light-mode-only)](https://www.youtube.com/@vocalyn)
-[![YouTube](./img/youtube-light.png#gh-dark-mode-only)](https://www.youtube.com/@vocalyn)
+### Connect with me:
+
+<p align="left">
+  <a href="https://lynfaina.github.io/portfoliov2/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png">
+      <img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;">
+    </picture>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lynfaina/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-light.png">
+      <img src="./img/linkedin-dark.png" alt="LinkedIn" width="30" style="margin-right: 10px;">
+    </picture>
+  </a>
+
+  <a href="https://www.instagram.com/coleberii/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/instagram-light.png">
+      <img src="./img/instagram-dark.png" alt="Instagram" width="30" style="margin-right: 10px;">
+    </picture>
+  </a>
+
+  <a href="https://www.youtube.com/@vocalyn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/youtube-light.png">
+      <img src="./img/youtube-dark.png" alt="YouTube" width="30" style="margin-right: 10px;">
+    </picture>
+  </a>
+</p>
 
 ### Languages and Tools:
 
