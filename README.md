@@ -18,11 +18,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="globe" width="26px" src="./img/globe.png" style="padding-right:10px;" />](https://lynfaina.github.io/portfoliov2/)
+<p align=""left>
+  <a href="https://www.lynfaina.github.io/portfoliov2/">
+    <img src="./img/globe.png#gh-light-mode-only" width="30" style="margin-right: 10px" />
+    <img src="./img/globe-white.png#gh-dark-mode-only" width="30" style="margin-right: 10px" />
+  </a>
+</p>
+
+<!-- [<img align="left" alt="globe" width="26px" src="./img/globe.png" style="padding-right:10px;" />](https://lynfaina.github.io/portfoliov2/)
 [<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/lynfaina/)
 [<img align="left" alt="instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;" />](https://www.instagram.com/coleberii/)
 [<img align="left" alt="youtube" width="26px" src="./img/youtube.png" style="padding-right:10px;" />](https://www.youtube.com/@vocalyn)
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 
 ### Languages and Tools:
 
