@@ -18,18 +18,17 @@
 
 ### Connect with me:
 
-<p align=""left>
-  <a href="https://www.lynfaina.github.io/portfoliov2/">
-    <img src="./img/globe.png#gh-light-mode-only" width="30" style="margin-right: 10px" />
-    <img src="./img/globe-white.png#gh-dark-mode-only" width="30" style="margin-right: 10px" />
-  </a>
-</p>
-
-<!-- [<img align="left" alt="globe" width="26px" src="./img/globe.png" style="padding-right:10px;" />](https://lynfaina.github.io/portfoliov2/)
-[<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/lynfaina/)
-[<img align="left" alt="instagram" width="26px" src="./img/instagram.png" style="padding-right:10px;" />](https://www.instagram.com/coleberii/)
-[<img align="left" alt="youtube" width="26px" src="./img/youtube.png" style="padding-right:10px;" />](https://www.youtube.com/@vocalyn)
-&nbsp;&nbsp; -->
+[![Website](./img/globe-dark.png#gh-light-mode-only)](https://lynfaina.github.io/portfoliov2/)
+[![Website](./img/globe-light.png#gh-dark-mode-only)](https://lynfaina.github.io/portfoliov2/)
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-dark.png#gh-light-mode-only)](https://www.linkedin.com/in/lynfaina/)
+[![LinkedIn](./img/linkedin-light.png#gh-dark-mode-only)](https://www.linkedin.com/in/lynfaina/)
+&nbsp;&nbsp;
+[![Instagram](./img/instagram-dark.png#gh-light-mode-only)](https://www.instagram.com/coleberii/)
+[![Instagram](./img/instagram-light.png#gh-dark-mode-only)](https://www.instagram.com/coleberii/)
+&nbsp;&nbsp;
+[![YouTube](./img/youtube-dark.png#gh-light-mode-only)](https://www.youtube.com/@vocalyn)
+[![YouTube](./img/youtube-light.png#gh-dark-mode-only)](https://www.youtube.com/@vocalyn)
 
 ### Languages and Tools:
 
