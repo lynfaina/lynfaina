@@ -26,14 +26,14 @@
 
 <p align="left">
   <img src="./img/kali.png" alt="Kali Linux" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/vmware-light.png"><img src="./img/vmware-dark.png" alt="VMware" width:="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/vmware-light.png"><img src="./img/vmware-dark.png" alt="VMware" width="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
   <img src="./img/nmap.png" alt="Nmap" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/ubuntu.png" alt="Ubuntu" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/cisco-light.png"><img src="./img/cisco-dark.png" alt="Cisco Packet Tracer" width:="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/cisco-light.png"><img src="./img/cisco-dark.png" alt="Cisco Packet Tracer" width="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
   <img src="./img/aws.png" alt="AWS" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/azure.png" alt="Microsoft Azure" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/metasploit.png" alt="Metasploit" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/burpsuite-light.png"><img src="./img/burpsuite-dark.png" alt="Burp Suite" width:="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/burpsuite-light.png"><img src="./img/burpsuite-dark.png" alt="Burp Suite" width="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
   <img src="./img/vscode.png" alt="VS Code" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/html5.png" alt="HTML5" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/css3.png" alt="CSS3" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
@@ -41,13 +41,13 @@
   <img src="./img/javascript.png" alt="JavaScript" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/nodejs.png" alt="Node.js" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/mongodb.png" alt="MongoDB" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/sql-light.png"><img src="./img/sql-dark.png" alt="Oracle SQL" width:="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/sql-light.png"><img src="./img/sql-dark.png" alt="Oracle SQL" width="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
   <img src="./img/git.png" alt="Git" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/github-light.png"><img src="./img/github-dark.png" alt="GitHub" width:="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/github-light.png"><img src="./img/github-dark.png" alt="GitHub" width="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
   <img src="./img/c++.png" alt="C++" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/python.png" alt="Python" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/visualbasic.png" alt="Visual Basic" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/c.png" alt="C" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/java.png" alt="Java" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/terminal-light.png"><img src="./img/terminal-dark.png" alt="Terminal" width:="30" style="margin-right: 10px"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/terminal-light.png"><img src="./img/terminal-dark.png" alt="Terminal" width="30" style="margin-right: 10px"></picture>
 </p>
