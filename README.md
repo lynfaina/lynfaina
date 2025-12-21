@@ -19,11 +19,12 @@
 ### Connect with me:
 
 <p align="left">
+
   <a href="https://lynfaina.github.io/portfoliov2/">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png">
-  <img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;">
-  </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png">
+      <img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;">
+    </picture>
   </a>
   
   <a href="https://www.linkedin.com/in/lynfaina/"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-light.png"><img src="./img/linkedin-dark.png" alt="LinkedIn" width="30" style="margin-right: 10px;"></picture>
