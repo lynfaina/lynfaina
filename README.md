@@ -18,15 +18,8 @@
 
 ### Connect with me:
 
-### Connect with me:
-
 <p align="left">
-  <a href="https://lynfaina.github.io/portfoliov2/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png">
-      <img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;">
-    </picture> &nbsp;&nbsp;
-  </a>
+  <a href="https://lynfaina.github.io/portfoliov2/"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.png"><img src="./img/globe-dark.png" alt="Website" width="30" style="margin-right: 10px;"></picture> &nbsp;&nbsp;</a>
   
   <a href="https://www.linkedin.com/in/lynfaina/">
     <picture>
