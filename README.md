@@ -4,8 +4,8 @@
 
 - 🔍 Currently seeking for **Summer 2026 Work Term opportunities**.
 - 🔭 Looking forward to building web and cloud security projects.
-- 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/MITM-Chat-Application-Simulation">MITM Chat Appliation Simulation</a>.
-- 👩🏽‍🤝‍👩🏾 Building a collaboration web project with <a href="https://github.com/tanishasr">Tanisha</a> <a href="https://github.com/lynfaina/Interactive-Travel-Guide">Interactive Travel Guide</a>.
+- 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/MITM-Chat-Application-Simulation">(MITM Chat Appliation Simulation)</a>.
+- 👩🏽‍🤝‍👩🏾 Building a collaboration web project with <a href="https://github.com/tanishasr">Tanisha</a> <a href="https://github.com/lynfaina/Interactive-Travel-Guide">(Interactive Travel Guide)</a>.
 - 👩‍💻 Learning COBOL Programming Language for fun!
 - 👯 I’m looking to collaborate on building security projects.
 - 🥅 2026 Goals: Expanding my knowledge, projects, certificates, and an internship!
