@@ -2,7 +2,7 @@
 
 ## I'm a Cybersecurity and Threat Management student @ Seneca Polytechnic!
 
-- 🔍 **Information Technology Systems Technologist** (Co-op).
+- 💼 **Information Technology Systems Technologist** Co-op Summer 2026 Term (I'm also a part-timer Barista). 
 - 🔭 Looking forward to building web and cloud security projects.
 - 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/MITM-Chat-Application-Simulation">(MITM Chat Application Simulation)</a>.
 - 👩🏽‍🤝‍👩🏾 Building a collaboration web project with <a href="https://github.com/tanishasr">Tanisha</a> <a href="https://github.com/lynfaina/Interactive-Travel-Guide">(Interactive Travel Guide)</a>.
