@@ -45,5 +45,9 @@
   <img src="./img/visualbasic.png" alt="Visual Basic" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/c.png" alt="C" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
   <img src="./img/java.png" alt="Java" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/terminal-light.png"><img src="./img/terminal-dark.png" alt="Terminal" width="30" style="margin-right: 10px"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./img/terminal-light.png"><img src="./img/terminal-dark.png" alt="Terminal" width="30" style="margin-right: 10px"></picture> &nbsp;&nbsp;
+  <img src="./img/wireshark.png" alt="Wireshark" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/kotlin.png" alt="Kotlin" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/android-studio.png" alt="Android Studio" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
+  <img src="./img/android-emulator.png" alt="Android Emulator" width="30" style="margin-right: 10px;" /> &nbsp;&nbsp;
 </p>
