@@ -2,14 +2,14 @@
 
 ## I'm a Cybersecurity and Threat Management student @ Seneca Polytechnic!
 
-- 🔍 Currently seeking for **Summer 2026 Work Term opportunities**.
+- 💼 **Information Technology Systems Technologist** Co-op Summer 2026 Term (I'm also a part-timer Barista). 
 - 🔭 Looking forward to building web and cloud security projects.
-- 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/MITM-Chat-Application-Simulation">(MITM Chat Appliation Simulation)</a>.
+- 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/MITM-Chat-Application-Simulation">(MITM Chat Application Simulation)</a>.
 - 👩🏽‍🤝‍👩🏾 Building a collaboration web project with <a href="https://github.com/tanishasr">Tanisha</a> <a href="https://github.com/lynfaina/Interactive-Travel-Guide">(Interactive Travel Guide)</a>.
 - 👩‍💻 Learning COBOL Programming Language for fun!
 - 👯 I’m looking to collaborate on building security projects.
 - 🥅 2026 Goals: Expanding my knowledge, projects, certificates, and an internship!
-- 😄 Pronouns: she/her
+- 😄 Pronouns: them/they
 - ⚡ Fun fact: I sing, dance, and create art. I also love listening to K-POP!
 
 ### Connect with me:
