@@ -1,14 +1,14 @@
 # Hello, World! 🌎 I'm Nicole 👋
 
-## I'm a Cybersecurity and Threat Management student @ Seneca Polytechnic!
+## I'm a Cybersecurity and Threat Management graduate @ Seneca Polytechnic!
 
-- 💼 **Information Technology Systems Technologist** Co-op Summer 2026 Term (I'm also a part-timer Barista). 
+- 💼 **Information Technology Systems Technologist** Co-op alum Summer 2026 Term (I'm also a part-timer Barista). 
 - 🔭 Looking forward to building web and cloud security projects.
-- 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/MITM-Chat-Application-Simulation">(MITM Chat Application Simulation)</a>.
+- 🌱 Currently building my personal security project <a href="https://github.com/lynfaina/Legacy-Systems-Security-Lab">(Legacy Systems Security Lab)</a>.
 - 👩🏽‍🤝‍👩🏾 Building a collaboration web project with <a href="https://github.com/tanishasr">Tanisha</a> <a href="https://github.com/lynfaina/Interactive-Travel-Guide">(Interactive Travel Guide)</a>.
 - 👩‍💻 Learning COBOL Programming Language for fun!
 - 👯 I’m looking to collaborate on building security projects.
-- 🥅 2026 Goals: Expanding my knowledge, projects, certificates, and an internship!
+- 🥅 2026 Goals: Landing an entry-level IT or cybersecurity role, expanding my projects, and earning more certificates.
 - 😄 Pronouns: them/they
 - ⚡ Fun fact: I sing, dance, and create art. I also love listening to K-POP!
 
